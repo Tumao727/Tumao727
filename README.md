@@ -1,12 +1,3 @@
-### Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tumao727&show_icons=true&hide_title=true&theme=dracula" />
+# Hi, I'm Tumao 👋
 
-
-## 📈 Weekly development breakdown
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+![GitHub contribution calendar](./profile-3d-contrib/profile-season-animate.svg)
