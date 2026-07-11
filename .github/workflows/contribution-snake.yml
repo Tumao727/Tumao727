@@ -1,6 +1,9 @@
 name: Generate Contribution Snake
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
