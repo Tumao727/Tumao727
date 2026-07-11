@@ -1,12 +1,7 @@
-### Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tumao727&show_icons=true&hide_title=true&theme=dracula" />
+# Hi, I'm Tumao 👋
 
+Senior Frontend Engineer interested in AI applications.
 
-## 📈 Weekly development breakdown
-<!--START_SECTION:waka-->
+`TypeScript` · `React` · `Next.js` · `TanStack` · `Node.js` · `Milvus`
 
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+I enjoy building thoughtful product experiences and exploring how AI can expand what one engineer can deliver.
